@@ -36,6 +36,7 @@ App.jsx: Definição das rotas e proteção de acesso.
 index.css: Estilos globais e variáveis de cores.
 
 🎯 Roadmap: Próximos Passos
+
 Fase 1: Interface (Front-End Estático)
 [ ] Criar a tela de Cadastro (Register.jsx).
 
