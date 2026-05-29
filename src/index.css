@@ -1,0 +1,75 @@
+/* Reset básico e Variáveis de Cor */
+:root {
+  --azul-primario: #0056b3;
+  --azul-claro: #e6f0fa;
+  --branco: #ffffff;
+  --cinza-texto: #333333;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+body {
+  background-color: var(--azul-claro);
+  color: var(--cinza-texto);
+}
+
+/* Estilos Padrão para os Formulários (Login e Cadastro) */
+.auth-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.auth-box {
+  background: var(--branco);
+  padding: 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.auth-box h2 {
+  color: var(--azul-primario);
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.auth-box input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 16px;
+}
+
+.btn-primario {
+  background-color: var(--azul-primario);
+  color: var(--branco);
+  border: none;
+  padding: 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+  transition: background 0.3s;
+}
+
+.btn-primario:hover {
+  background-color: #004494;
+}
+
+.auth-box a {
+  text-align: center;
+  color: var(--azul-primario);
+  text-decoration: none;
+  font-size: 14px;
+}
