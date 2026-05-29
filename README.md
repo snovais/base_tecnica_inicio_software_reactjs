@@ -66,4 +66,4 @@ Fase 4: Refinamento
 
 | Tela de Login | Dashboard |
 | :--- | :--- |
-| ![Login](https://github.com/snovais/base_tecnica_inicio_software_reactjs/blob/main/src/assets/login.png?raw=true) | ![Dashboard](https://github.com/snovais/base_tecnica_inicio_software_reactjs/blob/main/src/assets/dashboard.png?raw=true) |
+| ![Login](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/login.png) | ![Dashboard](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/dashboard.png) |
