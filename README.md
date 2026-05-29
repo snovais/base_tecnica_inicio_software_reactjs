@@ -66,4 +66,4 @@ Fase 4: Refinamento
 
 | Tela de Login | Dashboard |
 | :--- | :--- |
-| ![Login](assets/tela-inicial.png) | ![Dashboard](assets/pagina-principal.png) |
+| ![Login](assets/login.png) | ![Dashboard](assets/dashboard.png) |
