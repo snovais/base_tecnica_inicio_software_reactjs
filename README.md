@@ -10,9 +10,7 @@ Este projeto foi estruturado com as melhores práticas de mercado para o desenvo
 
 | Tela de Login | Dashboard |
 | :--- | :--- |
-| ![Login](tela-inicial.png) | ![Dashboard](pagina-principal.png) |
-| *Design Split-screen com foco em legibilidade.* | *Layout com Sidebar e Cards de resumo.* |
-
+| ![Login](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/login.png) | ![Dashboard](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/dashboard.png) |
 ---
 
 ## 🛠️ Como rodar o projeto
@@ -63,7 +61,3 @@ Fase 4: Refinamento
 [ ] Testes de responsividade (Mobile First).
 
 👨‍🏫 Nota do Professor: A escolha desta base (Vite + CSS Puro) visa o aprendizado profundo do fluxo de dados e posicionamento de elementos. Dominar esta estrutura é o diferencial entre um desenvolvedor que copia código e um que compreende o sistema.
-
-| Tela de Login | Dashboard |
-| :--- | :--- |
-| ![Login](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/login.png) | ![Dashboard](https://raw.githubusercontent.com/snovais/base_tecnica_inicio_software_reactjs/main/src/assets/dashboard.png) |
