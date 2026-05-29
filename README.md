@@ -119,4 +119,15 @@ Um bom sistema não confia cegamente no que o usuário digita. É hora de aplica
 * [ ] **Tratamento de Erros da API:** O que acontece se a internet cair ou o servidor do backend estiver desligado? O Front-end deve estar preparado para capturar esse erro (`catch`) e mostrar uma mensagem amigável para o usuário.
 * [ ] **Responsividade Final:** Testem todas as telas pelo celular. Abram as ferramentas de desenvolvedor do navegador (F12) e garantam que nada "quebra" em telas menores.
 
+## 🖼️ Prévia do Projeto
+
+Para ajudar na visualização da arquitetura, aqui estão os exemplos da estrutura base que preparamos:
+
+| Tela de Login | Dashboard |
+| :--- | :--- |
+| ![Login](src/assets/tela-inicial.png) | ![Dashboard](src/assets/pagina-principal.png) |
+| *Design Split-screen com foco em legibilidade.* | *Layout com Sidebar e Cards de resumo.* |
+
+---
+
 > 💡 **Dica de Ouro para a Equipe:** Não tentem fazer a Fase 3 antes de terminar a Fase 1. Desenvolvam uma funcionalidade por vez, testem até funcionar perfeitamente, façam o *commit* no Git e só então avancem para o próximo desafio.# base_tecnica_inicio_software_reactjs
