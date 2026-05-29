@@ -125,7 +125,7 @@ Para ajudar na visualização da arquitetura, aqui estão os exemplos da estrutu
 
 | Tela de Login | Dashboard |
 | :--- | :--- |
-| ![Login](/meu-tcc/src/assets/tela-inicial.png) | ![Dashboard](/meu-tcc/src/assets/pagina-principal.png) |
+| ![Login](tela-inicial.png) | ![Dashboard](pagina-principal.png) |
 | *Design Split-screen com foco em legibilidade.* | *Layout com Sidebar e Cards de resumo.* |
 
 ---
